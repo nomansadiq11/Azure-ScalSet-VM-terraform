@@ -5,6 +5,7 @@ This repo for Azure Scale set to spin up VMs using terraform. This help to spin 
 
 - Local State
 
+## Variables
 
 | Variable      | Value | Description |
 | ------------- | ------------- | ------------- | 
