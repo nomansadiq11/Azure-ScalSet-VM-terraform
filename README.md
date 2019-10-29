@@ -1,6 +1,10 @@
 # Azure ScalSet VM 
 This repo for Azure Scale set to spin up VMs using terraform. This help to spin infrastructure just single command. 
 
+## Terraform State
+
+- Local State
+
 
 | Variable      | Value | Description |
 | ------------- | ------------- | ------------- | 
